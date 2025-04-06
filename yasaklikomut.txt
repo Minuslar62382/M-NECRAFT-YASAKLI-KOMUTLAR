@@ -20,3 +20,4 @@
 /kill
 /fill
 /summon
+//set
