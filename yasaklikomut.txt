@@ -19,3 +19,4 @@
 /enchant
 /kill
 /fill
+/summon
