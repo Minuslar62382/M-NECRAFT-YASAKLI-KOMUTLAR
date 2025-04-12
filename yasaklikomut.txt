@@ -15,9 +15,7 @@
 /setspawn  
 /setworldspawn  
 /xp  
-/experience  
-/enchant
+/experience
 /kill
-/fill
 /summon
 //set
