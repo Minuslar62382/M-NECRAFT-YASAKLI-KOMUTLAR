@@ -19,3 +19,4 @@
 /kill
 /summon
 //set
+/execute
